@@ -8,8 +8,7 @@ public class HelloWorld {
     }
 
     public static String sayHello() {
-        System.out.println("Hello, World!");
-        return "";
+        //Added hello world to the return statement.
+        return "Hello, World!";
     }
-
 }
